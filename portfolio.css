@@ -1,0 +1,57 @@
+html{
+
+cursor: url(https://ani.cursors-4u.net/others/oth-9/oth839.cur), auto !important;
+}
+
+body{
+
+	background-color:#f7da8b;
+	font-family: "Caveat", cursive;
+	background-image: url("./Image/background.png");
+	background-position: center; 
+ }
+
+ul {
+  
+  	list-style-type: none;
+}
+
+a {
+  
+  	text-decoration: none;
+  	color:#284283;
+	cursor: url(https://ani.cursors-4u.net/others/oth-9/oth845.cur), pointer;
+}
+
+a:hover {
+	color: red; /* Text color when hovered */
+}
+
+div{
+
+	background-image: url("./Image/notebook.jpg");
+	background-position: center; 
+  	background-size: cover; 
+    background-position: center center; /* or other positions */
+    height:800px;
+    width:600px;
+    margin-left:400px;
+}
+
+h1{
+  	padding-top:22px;	
+  	margin-left:100px;
+ }
+
+ul{
+
+	margin-left: 55px;
+  	margin-top: 25px;
+
+  }
+ 
+ li{
+
+	font-size: 28px;
+  	margin-top:22px;
+ }
