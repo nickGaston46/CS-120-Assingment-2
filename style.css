@@ -1,0 +1,96 @@
+body {
+
+	font-family: Oswald, sans-serif;
+}
+
+h1 {
+
+	font-size: 60px;
+	color: #6716d9;
+	margin-bottom: 30px;
+}
+
+h2 {
+
+	font-size: 30px;
+	color: #ff0000;
+	margin-bottom: 30px;
+}
+
+ul {
+
+	 border: 1px solid black;
+	 margin: auto;
+}
+table, th, td  {
+
+	 border:1px solid black;
+}
+
+table {
+
+	marigin: auto;
+}
+
+.favFood {
+
+	background-size: cover; 
+	width: 300px; 
+  	height: 300px; 
+	background-image: url("./Image/burrito_bowl.jpg");
+	background-position: center; 
+  	background-repeat: no-repeat; 
+
+  	 
+}
+
+.favFoodPara{
+
+	margin-left:10px;
+}
+
+.favFoodContainer {
+
+  display: flex; 
+  justify-content: space-around; 
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.altLines {
+
+	background-color:#a39999;
+
+}
+form{
+
+	padding-top: 10px;
+}
+
+label {
+	
+	align-content: right;
+}
+
+label, input, select {
+
+	margin-top: 20px;
+}
+
+.logo {
+
+	position:fixed;
+	top:0px;
+	right:0px;
+	padding-top:10px;
+	height:75px;
+	width:75px;
+}
+
+#x-logo{
+
+
+	top:60px;
+}
+

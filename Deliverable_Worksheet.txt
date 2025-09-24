@@ -1,0 +1,4 @@
+URL of about_me.html    cPanel/Siteground hosting https://nicholasg.sgedu.site/about_me.html
+
+URL of about_me.html   GitHub hosting https://nickgaston46.github.io/CS-120-Assingment-2/
+
